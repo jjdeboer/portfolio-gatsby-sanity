@@ -66,7 +66,7 @@ function Quote ({ quoteNumber, specification, validity, taskRow }) {
         <h2>Contact information</h2>
         <p className={styles.paragraph}>
           For questions or concerns you are welcome to call me at 073-514 60 10 or send an email to{' '}
-          <a href='mailto:patrik@patrikarvidsson.com'>patrik@patrikarvidsson.com</a> and I'll get back to you as soon as
+          <a href='mailto:mail@jaapjandeboer.nl'>mail@jaapjandeboer.nl</a> and I'll get back to you as soon as
           possible.
         </p>
       </section>

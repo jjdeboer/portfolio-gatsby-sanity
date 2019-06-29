@@ -1,11 +1,11 @@
 {
   "root": true,
   "api": {
-    "projectId": "vo14b7t9",
+    "projectId": "u3p4vd8u",
     "dataset": "production"
   },
   "project": {
-    "name": "Patrik Arvidsson"
+    "name": "Jaap Jan de Boer"
   },
   "plugins": [
     "@sanity/base",

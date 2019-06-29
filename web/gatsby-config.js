@@ -5,7 +5,7 @@ const {
 
 module.exports = {
   siteMetadata: {
-    siteUrl: 'https://www.patrikarvidsson.com'
+    siteUrl: 'https://www.jaapjandeboer.nl'
   },
   plugins: [
     'gatsby-plugin-postcss',
@@ -26,8 +26,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Patrik Arvidsson`,
-        short_name: `Patrik Arvidsson`,
+        name: `Jaap Jan de Boer`,
+        short_name: `Jaap Jan de Boer`,
         start_url: `/`,
         background_color: `#000`,
         theme_color: `#000`,
@@ -64,7 +64,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://patrikarvidsson.com`
+        siteUrl: `https://www.jaapjandeboer.nl`
       }
     },
     {

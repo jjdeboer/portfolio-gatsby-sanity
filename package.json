@@ -1,8 +1,8 @@
 {
   "private": false,
-  "name": "patrik-arvidsson",
+  "name": "jaapjan-deboer",
   "version": "1.0.0",
-  "author": "Patrik Arvidsson <hello@patrikarvidsson.com>",
+  "author": "Jaap Jan de Boer <mail@jaapjandeboer.nl>",
   "scripts": {
     "clean": "lerna clean",
     "deploy": "lerna run deploy",
