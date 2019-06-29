@@ -4,7 +4,6 @@ import Icon from './icons'
 import { cn } from '../lib/helpers'
 
 import logo from '../images/logo.flat.svg'
-import webring from '../images/icon.webring.svg'
 
 import styles from './header.module.css'
 
@@ -31,11 +30,6 @@ const Header = ({ onHideNav, onShowNav, showNav, siteTitle }) => (
           </li>
           <li>
             <Link to='/blog/'>Blog</Link>
-          </li>
-          <li>
-            <a href='https://webring.xxiivv.com/#random'>
-              <img src={webring} alt='Webring' />
-            </a>
           </li>
         </ul>
       </nav>
